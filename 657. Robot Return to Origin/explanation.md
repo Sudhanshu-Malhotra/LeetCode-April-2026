@@ -1,6 +1,6 @@
-# 🚀 Robot Return to Origin (LeetCode 657)
+# Robot Return to Origin (LeetCode 657)
 
-## 🧠 Problem
+## Problem
 A robot starts at position (0, 0) on a 2D plane.
 
 You are given a string `moves` where:
@@ -13,7 +13,7 @@ Return `true` if the robot returns to the origin after all moves, otherwise retu
 
 ---
 
-## 💡 Approach
+## Approach
 
 We track the robot’s position using two variables:
 - `x` → horizontal position
@@ -31,6 +31,4 @@ After processing all moves:
 
 ---
 
-## 🔍 Example
 
-**Input:**
